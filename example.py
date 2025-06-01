@@ -1,1 +1,1 @@
-print("This is a new Python file!")
+print("Updated content in the example file!")
